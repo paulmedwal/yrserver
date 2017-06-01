@@ -1,0 +1,3 @@
+Django
+mysql-python
+django-cors-middleware
